@@ -63,11 +63,7 @@ Each **CSV file** includes the following fields:
 ---
 
 ## 📊 Benchmarking
-A hybrid model (TF-IDF + Word2Vec + LSTM + contextual features) was trained on CHASE-LB, showing significant improvements:  
-
-- **AUC:** 0.955 vs 0.910 (LID-DS)  
-- **AUC:** 0.945 vs 0.870 (ADFA-LD)  
-- Up to **58% reduction** in false alarms  
+A hybrid model (TF-IDF + Word2Vec + LSTM + contextual features) was trained on CHASE-LB  
 
 ---
 
